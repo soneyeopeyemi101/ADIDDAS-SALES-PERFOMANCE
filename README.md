@@ -118,6 +118,6 @@ This project demonstrates my ability to take raw sales data and transform it int
 ## Files
 
 * `Adidas Dashboard.pbix` – Power BI dashboard [⬇️ Download Here](https://github.com/soneyeopeyemi101/ADIDDAS-SALES-PERFOMANCE/raw/main/Adidas%20Dashboard.pbix)
-* `Adidas Dataset.xlsx` – Dataset used for the analysis [⬇️ Download Here](https://github.com/soneyeopeyemi101/ADIDDAS-SALES-PERFOMANCE/raw/main/Adidas_Dataset.xlxs)
+* `Adidas Dataset.xlsx` – Dataset used for the analysis [⬇️ Download Here](https://github.com/soneyeopeyemi101/ADIDDAS-SALES-PERFOMANCE/raw/main/Adidas_Dataset.xlsx)
 * `dashboard.png` – Dashboard preview
 
